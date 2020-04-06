@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Exercise1</string>
+    <string name="al_mundo">Alô, Mundo!</string>
+    <string name="cumprimentar">Cumprimentar</string>
+    <string name="digite_seu_nome">Digite seu Nome!</string>
 </resources>
